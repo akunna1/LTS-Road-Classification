@@ -4,7 +4,7 @@
 
 This project analyzes the road network of Chapel Hill, NC to classify streets by their Level of Traffic Stress (LTS) for cyclists. Using R and ArcGIS Pro, the analysis identifies safer, low-stress routes and suggests strategic bike lane additions to improve cycling safety and accessibility.
 
-The ultimate goal is to support safer cycling infrastructure, assist UNC’s Department of City and Regional Planning, and help reduce demand for limited campus parking. 🎯
+The ultimate goal is to support safer cycling infrastructure, assist UNC’s Department of City and Regional Planning, and help reduce demand for the limited campus parking. 🎯
 
 ---
 
